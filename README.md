@@ -1,2 +1,2 @@
-# visit
+# visitingCard
 My visiting card
